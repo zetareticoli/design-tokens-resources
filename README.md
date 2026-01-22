@@ -1,4 +1,4 @@
-# design-tokens-resources
+# Design Tokens Resources
 
 A small collection of checklists and templates to help teams design, audit, manage, and propose changes to design tokens.
 
